@@ -1,0 +1,2 @@
+Mid_AbdiGunawan_182004.Soal1
+Mid_AbdiGunawan_182004.Peternakan

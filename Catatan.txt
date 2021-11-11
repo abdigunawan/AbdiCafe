@@ -1,0 +1,6 @@
+- pada saat pertama di running akan muncul notif problem tapi abaikan saja karena erornya tidak mendeteksi driver yg saya gunakan
+  sebelumnya di netbeans 12
+- untuk final projek saya yang abdicafe ada di package FinalProjek_AbdiGunawan_182004
+- Untuk Final Saya Ada di FormFinal_AbdiGunawan
+
+Terimakasih
